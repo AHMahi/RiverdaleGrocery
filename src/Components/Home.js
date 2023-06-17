@@ -6,7 +6,7 @@ function Home() {
   return (
     <div className='home-container'>
       <h1>FRESH GROCERIES AWAIT</h1>
-
+<h2>hey</h2>
       <div className='home-btns'>
         <button className="nav-items-list">
           <Link to="/delivery">GET STARTED</Link>
